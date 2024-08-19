@@ -1,4 +1,4 @@
-Hi, This is the code which I used to create a personal website just using HTML, CSS, and JavaScript. I used this YouTube tutorial to develop this website https://www.youtube.com/watch?v=ldwlOzRvYOU.
+Hi, This is the code that I used to create a personal website just using HTML, CSS, and JavaScript. I used this YouTube tutorial to develop this website https://www.youtube.com/watch?v=ldwlOzRvYOU.
 Thank You
 This is how the final website looks like
 
